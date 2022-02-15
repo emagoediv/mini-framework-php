@@ -1,0 +1,15 @@
+{
+    "name": "amorim/mini-framework-php",
+    "authors": [
+        {
+            "name": "emagoediv",
+            "email": "emagoedivplay@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "app\\": "app/"
+        }
+    }
+}
